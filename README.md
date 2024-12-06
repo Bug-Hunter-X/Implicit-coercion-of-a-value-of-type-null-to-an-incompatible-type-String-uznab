@@ -1,0 +1,1 @@
+This repository contains an example of an ActionScript 3 error related to implicit type coercion. The error occurs when a variable that may be null is used as a string without explicit null checking. The solution demonstrates how to correctly handle null values to prevent the error.
